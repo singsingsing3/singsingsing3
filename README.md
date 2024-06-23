@@ -2,9 +2,13 @@
 
 
 <div align="center">
+
+
+  
   <!-- Typing SVG -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Thank+you+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0BD2FA&lines=Welcome+to+my+GitHub;Thank+you+for+visiting&font=Redressed&size=60)](https://git.io/typing-svg)
+
   
   <!-- 관심 분야 제목 -->
   <h3 align="center">✨ I'm Interested In... ✨</h3>
