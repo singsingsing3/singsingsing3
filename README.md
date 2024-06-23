@@ -1,9 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub&center=true&width=500&height=50&color=FFFFFF)](https://git.io/typing-svg)
+
+
 <div align="center">
   <!-- Typing SVG -->
   
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Thank+you+for+visiting)](https://git.io/typing-svg)
   
   <!-- 관심 분야 제목 -->
   <h3 align="center">✨ I'm Interested In... ✨</h3>
