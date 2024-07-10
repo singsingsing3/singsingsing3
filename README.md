@@ -32,7 +32,7 @@
   
   ![SingSingSing3's GitHub stats](https://github-readme-stats.vercel.app/api?username=singsingsing3&show_icons=true&theme=radical)
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=otr0811)](https://solved.ac/otr0811/)
+
 
 </div>
 
