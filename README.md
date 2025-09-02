@@ -31,8 +31,9 @@
   <h3 align="center">🛠 GitHub Stats 🛠</h3>
   
   ![SingSingSing3's GitHub stats](https://github-readme-stats.vercel.app/api?username=singsingsing3&show_icons=true&theme=radical)
+  <h3 align="center">Algorithm</h3>
 
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=otr0811)](https://solved.ac/otr0811/)
 
 </div>
 
